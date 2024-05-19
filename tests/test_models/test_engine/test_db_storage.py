@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-unitt Test for BaseModel Class
+Unit Test for BaseModel Class
 """
 import unittest
 from datetime import datetime
